@@ -1,0 +1,4 @@
+# seminar
+Text Detection and Character Recognition Methods in Images
+
+This report tackles the problem of recognizing characters in im- ages of natural scenes which is a challenging problem that has received significant amount of attention. Recently, many methods have been proposed to design better feature representatives and models for text detection and character recognition. In machine learning, we apply these recently developed large-scale algorithms for learning features automatically from unlabeled data and access the performance of var- ious features based on these methods. Nearest neighbour and SVM classification allow us to construct highly effective classifiers for both detection and recognition, that are to be used in a high accuracy end- to-end system that can be far superior to that of commercial Optical Character Recognition systems.
